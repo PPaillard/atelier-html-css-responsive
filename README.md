@@ -1,8 +1,8 @@
-# Atelier de conception réactive
+# Atelier Responsive Design
 
 **Les objectifs de cet atelier** :  
 • Améliorer l'intégration HTML avec les propriétés Flex et Grid.  
-• Rendre l'ensemble réactif.
+• Rendre l'ensemble Responsive.
 
 
 ## Initialisation
@@ -33,7 +33,7 @@ Rappel :
 
 ### Section Articles mis en avant
 
-Contrairement à la section `À propos de nous`, qui n'a pas besoin d'être modifiée, la section `Articles mis en avant` nécessite l'ajout d'une classe CSS.
+Contrairement à la section `À propos de nous`, qui n'a pas besoin d'être modifiée, la section `Articles en avant` nécessite l'ajout d'une classe CSS.
 - Ajoutez la classe CSS `featured-posts` à cette section.
 - Ajoutez un cinquième article dans la structure HTML.
 - Utilisez CSS Grid pour créer une mise en page à 2 colonnes. Selon le modèle, le premier article occupera 2 cellules de la grille, les autres seulement une.
@@ -42,7 +42,7 @@ Contrairement à la section `À propos de nous`, qui n'a pas besoin d'être modi
 
 > Astuce : Le premier article peut être ciblé avec le sélecteur CSS `:first-of-type`.
 
-## Rendre le site réactif
+## Rendre le site Responsive
 
 Ajoutez des media queries et utilisez des fonctions CSS pour obtenir la mise en page réactive ci-dessous à 1200px.  
 > Vous pouvez utiliser un breakpoint à 768px dans vos media queries (ce qui correspond au mode paysage de certaines tablettes).
