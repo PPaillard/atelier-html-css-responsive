@@ -8,7 +8,7 @@
 ## Initialisation
 
 Cet atelier est la deuxième partie de l'[atelier de base HTML](https://github.com/PPaillard/atelier-html-css-basics).  
-Vous pouvez donc partir de votre travail précédent ou [télécharger cette version](https://github.com/PPaillard/atelier-html-css-basics/archive/refs/heads/main.zip) si vous n'êtes pas sûr de ce que vous avez fait.
+Vous pouvez donc partir de votre travail précédent ou [télécharger cette version](https://github.com/PPaillard/atelier-html-css-responsive/archive/refs/heads/main.zip) si vous n'êtes pas sûr de ce que vous avez fait.
 
 
 ## Mise en page de votre site web
