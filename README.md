@@ -33,8 +33,9 @@ Rappel :
 
 ### Section Articles mis en avant
 
-Contrairement à la section `À propos de nous`, qui n'a pas besoin d'être modifiée, la section `Articles en avant` nécessite l'ajout d'une classe CSS.
-- Ajoutez la classe CSS `featured-posts` à cette section.
+Contrairement à la section `À propos de nous`, qui n'a pas besoin d'être modifiée, la section `Articles en avant` nécessite l'ajout d'une division pour encadrer les articles ainsi que d'une classe CSS sur cette division
+- Ajoutez une division qui entoure vos articles.
+- Ajoutez la classe CSS `grille` à cette division.
 - Ajoutez un cinquième article dans la structure HTML.
 - Utilisez CSS Grid pour créer une mise en page à 2 colonnes. Selon le modèle, le premier article occupera 2 cellules de la grille, les autres seulement une.
 
@@ -53,14 +54,7 @@ Ajoutez des media queries et utilisez des fonctions CSS pour obtenir la mise en 
 *(La capture d'écran a été réalisée avec une largeur de fenêtre d'affichage de 970px.)*
 
 - Rendez la barre de navigation réactive.
-- Utilisez la fonction `clamp()` pour rendre votre `<h1>` lisible à toutes les tailles.
 - Modifiez le modèle de la grille pour adapter les produits horizontalement sur une mise en page à 4 colonnes, tout en conservant un "Article 1" plus grand occupant 2 colonnes et 2 lignes.
-
-> Astuce : Ajoutez ce snippet à votre CSS pour que le `<h2>` soit bien positionné.
-> ```css
-> section.featured-posts h2 {
->    grid-column: 1 / -1;
-> }
-> ```
+- Bonus - Utilisez la fonction `clamp()` pour rendre votre `<h1>` lisible à toutes les tailles.
 
 - Ajoutez une propriété `filter: drop-shadow` sur le `<h1>` de l'élément `<header>`, mais uniquement pour les écrans afin d'exclure cet effet lors de l'impression.
