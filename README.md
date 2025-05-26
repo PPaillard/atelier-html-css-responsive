@@ -58,3 +58,4 @@ Ajoutez des media queries et utilisez des fonctions CSS pour obtenir la mise en 
 - Bonus - Utilisez la fonction `clamp()` pour rendre votre `<h1>` lisible à toutes les tailles.
 
 - Ajoutez une propriété `filter: drop-shadow` sur le `<h1>` de l'élément `<header>`, mais uniquement pour les écrans afin d'exclure cet effet lors de l'impression.
+.
