@@ -55,6 +55,6 @@ Ajoutez des media queries et utilisez des fonctions CSS pour obtenir la mise en 
 _(La capture d'écran a été réalisée avec une largeur de fenêtre d'affichage de 970px.)_
 
 - Rendez la barre de navigation réactive.
-- Modifiez le modèle de la grille pour adapter les produits horizontalement sur une mise en page à 4 colonnes, tout en conservant un "Article 1" plus grand occupant 2 colonnes et 2 lignes.
+- Modifiez le modèle de la grille pour adapter les produits horizontalement sur une mise en page à 4 colonnes, tout en conservant un "Article 1" plus grand occupant 4 colonnes et 2 lignes.
 - Ajoutez une propriété `filter: drop-shadow` sur le `<h1>` de l'élément `<header>`, mais uniquement pour les écrans afin d'exclure cet effet lors de l'impression.
 - Bonus - Utilisez la fonction `clamp()` pour rendre votre `<h1>` lisible à toutes les tailles.
